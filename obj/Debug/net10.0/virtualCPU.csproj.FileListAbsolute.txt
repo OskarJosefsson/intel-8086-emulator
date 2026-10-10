@@ -1,0 +1,14 @@
+/home/oskar/dev/perfaware/virtualCPU/bin/Debug/net10.0/virtualCPU
+/home/oskar/dev/perfaware/virtualCPU/bin/Debug/net10.0/virtualCPU.deps.json
+/home/oskar/dev/perfaware/virtualCPU/bin/Debug/net10.0/virtualCPU.runtimeconfig.json
+/home/oskar/dev/perfaware/virtualCPU/bin/Debug/net10.0/virtualCPU.dll
+/home/oskar/dev/perfaware/virtualCPU/bin/Debug/net10.0/virtualCPU.pdb
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.GeneratedMSBuildEditorConfig.editorconfig
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.AssemblyInfoInputs.cache
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.AssemblyInfo.cs
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.csproj.CoreCompileInputs.cache
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.dll
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/refint/virtualCPU.dll
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.pdb
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/virtualCPU.genruntimeconfig.cache
+/home/oskar/dev/perfaware/virtualCPU/obj/Debug/net10.0/ref/virtualCPU.dll
