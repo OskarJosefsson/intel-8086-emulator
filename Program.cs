@@ -12,7 +12,6 @@ byte[] bytes = File.ReadAllBytes(inputFile);
 
 for (int i = 0; i < bytes.Length; i += 2)
 {
-    Console.WriteLine($"Byte {i}: {bytes[i]:X2}");
     Decode(bytes[i], bytes[i + 1]);
 }
 
